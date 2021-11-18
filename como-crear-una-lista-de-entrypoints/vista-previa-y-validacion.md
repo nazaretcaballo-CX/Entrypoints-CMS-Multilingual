@@ -1,28 +1,26 @@
 ---
-description: Paso 4 de creación de una lista de entry points
+description: Step 4 of creating an entry point list
 ---
 
-# Vista previa y validación
+# Preview and validation
 
-En este último paso puedes visualizar cómo queda el contenido de la lista que estás creando.
+In this last step you can see what the content of the list you are creating will look like.
 
-La pantalla está dividida en dos partes:
+The screen is divided into two parts:
 
-* La parte de la izquierda úsala, de manera opcional, para filtrar la visualización en función de las audiencias a las que puede pertenecer un usuario. Sería algo así como simular casos de uso de un usuario. Qué puede ver y qué no en función de las audiencias que le apliquen.
-* La parte derecha te muestra qué verá el usuario en función de las audiencias que selecciones en la parte izquierda.
+- The left-hand side of the screen can be optionally used to filter the display based on the audiences a user can belong to. It would be akin to simulating the use cases of a user. Namely, what you can and cannot see depending on the audiences that apply to you.
+- The right-hand side of the screen shows you what the user will see based on the audiences that you select on the left-hand side.
 
-![](../.gitbook/assets/Paso4\_Preview\_Validate.png)
+![](../.gitbook/assets/Paso4_Preview_Validate.png)
 
-Usa la opción ![](../.gitbook/assets/Add\_use\_case.png) para añadir audiencias y moverla a la columna derecha. Esto te permite simular el caso de uso de un usuario que pertenezca a esa audiencia.
+Use the option![](../.gitbook/assets/Add_use_case.png) to add audiences and move it to the right column. This allows you to simulate the use case of a user belonging to that audience.
 
-Usa la opción ![](../.gitbook/assets/remove\_use\_case.png)para quitar una audiencia y por tanto no simular ese caso de uso.
+Use the option![](../.gitbook/assets/remove_use_case.png) to remove an audience and not simulate that use case.
 
-En este último paso haz clic en Save and **Publish **para publicar la lista que acabas de configurar.
+In this last step, click <strong>Save and publish</strong> to publish the list that you have just configured.
 
-También puedes hacer clic en **Save** para guardar los cambios. En ese momento la lista pasa al estado **PAUSED** lo que te permite comenzar un test para poder ver cómo quedan los cambios antes de publicarlos e impactar a una masa amplia de usuarios.
+You can also click Save to save the changes and leave the list in a DRAFT state. At this point, you can run a test to see how the changes will appear before publishing them and impacting a large number of users.
 
-**¿Quieres saber más sobre le proceso de Test?** 👇🏼
+**Do you want to know more about the Test process?** 👇🏼
 
-{% content-ref url="../como-hacer-un-test.md" %}
-[como-hacer-un-test.md](../como-hacer-un-test.md)
-{% endcontent-ref %}
+[# how-to-test-a-content-before-publishing-it](../como-hacer-un-test.md#como-probar-un-contenido-antes-de-publicarlo "mention")
