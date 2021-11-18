@@ -1,70 +1,80 @@
 ---
-description: Step 1 of creating an entry point list
+description: Paso 1 de creación de una lista de entry points
 ---
 
 # Overview
 
-In this first step, at the first level, you have the information about the ID of the list you are creating and the page on which it will be displayed.
+En este primer paso dispones, a primer nivel, de la información sobre el el ID de la lista que estás creando y la página en la que se va mostrar.&#x20;
 
-If you need the ID of the list, click![](../.gitbook/assets/icono_copypaste.png) to copy it to the clipboard.
+Si necesitas el ID de la lista haz clic en ![](../.gitbook/assets/icono\_copypaste.png) para copiarlo en el portapapeles.
 
-![](../.gitbook/assets/Name&Location.png)
+![](../.gitbook/assets/Name\&Location.png)
 
 ### Titles
 
 #### List summary title
 
-It is an optional field and represents the title of the list.
+Es un campo opcional y representa el título de la lista.
 
-![](../.gitbook/assets/List_summary_title.gif)
+![](../.gitbook/assets/List\_summary\_title.gif)
 
 #### Full list title
 
-This optional field is the title of the page that contains the full list. This page, which contains the full list, is shown if the user has checked the **Restrict the amount of services in summary view** box and the **Show "See all" in the summary view"** box.
+Es un campo opcional y es el título de la página que contiene la lista completa. Esta página con la lista completa se muestra si el usuario tiene activado el check **Restrict the amount of services in summary view** y además tiene marcado el check **Show "See all"** in the summary view.&#x20;
 
-{% hint style = "info" %} This is a new page that the user accesses by clicking the "Other services" link. {% endhint %}
+{% hint style="info" %}
+Esta página es una página nueva a la que el usuario accede al hacer clic en el enlace "Otros servicios" .
+{% endhint %}
 
-![](../.gitbook/assets/full_list_title.gif)
+![](../.gitbook/assets/full\_list\_title.gif)
 
 ### Visualization
 
-In this section, you indicate how the entry points in the list will be displayed:
+En esta sección indica el modo en que se van a visualizar los entry points de la lista:&#x20;
 
-- **List**. To display the items in list mode.
-- **Carousel**. To display the items in carousel mode.
+* **List**. Para mostrar los elementos en modo lista.&#x20;
+* **Carousel**. Para mostrar los elementos en modo carrusel.
 
-{% hint style = "success" %} The lists will or will not have icons depending on the OB. Some OBs are configured in such a way that the lists support icons, and other OBs are configured so that they don't.
+{% hint style="success" %}
+Las listas llevarán iconos en función de la OB, es decir, hay OBs que tienen configurado que las listas admitan iconos y otras OBs tienen configurado que no se puedan añadir.&#x20;
 
-You will know this when you [configure the entry points](../como-crear-editar-un-entrypoint.md#crear-un-entrypoint), because you will have the option to add icons if they are supported. {% endhint %}
+Esto lo sabrás cuando [configures los entry points](../como-crear-editar-un-entrypoint.md#crear-un-entrypoint) porque si admiten iconos entonces tendrás la opción de añadirlos.
+{% endhint %}
 
-![](../.gitbook/assets/Visualization_section.png)
+![](../.gitbook/assets/Visualization\_section.png)
 
-**Restrict the amount of services in summary view**. Check this box to restrict the number of icons displayed in the list.
+**Restrict the amount of services in summary view**. Selecciona este check para restringir el número de iconos que se muestran en la lista.
 
-**Amount of services summary view**. If you have checked the **Restrict the amount of services in summary view** box, it will indicate the maximum number of entry points to be shown.
+**Amount of services summary view**. Si has seleccionado el check **Restrict the amount of services in summary view** entonces indica el número máximo de entry points que se van a mostrar.&#x20;
 
-**Show "See all" in the summary view**. Check this box to display the link that allows you to see the page with the full list of entry points.
+**Show "See all" in the summary view**. Marca este check para que se muestre el enlace que permite ver la página con toda la lista de entry points completa.
 
-![](../.gitbook/assets/enlace_OtrosServicios.png)
+![](../.gitbook/assets/enlace\_OtrosServicios.png)
 
-{% hint style = "info" %}: wink: If you restrict the number of elements to show from the list, you should display the link so that the full list can be seen. {% endhint %}
+{% hint style="info" %}
+:wink: Lo más recomendable es que si restringes el número de elementos a mostrar de la lista entonces muestres también el enlace para que se vea la lista completa.
+{% endhint %}
 
-### Entry point lists preview
+### Entrypoint lists preview
 
-In this section you can see what the list will look like when it is published.
+En esta sección puedes ver el aspecto que tendrá la lista cuando se publique.&#x20;
 
-Use the **LIGHT/DARK** control to see what it will look like in *dark mode* or *light mode*.
+Usa el control **LIGHT/DARK** para simular la visualización en _dark mode_ o en _light mode_.
 
-![](../.gitbook/assets/light_dark.png)
+![](../.gitbook/assets/light\_dark.png)
 
-{% hint style = "warning" %} Keep in mind that this is only a preview, intended to give you an idea of what the content will look like. Remember that this step doesn't yet contain any real information about which entry points you are going to include or any other data.
+{% hint style="warning" %}
+Ten en cuenta que es solo una vista previa que está pensada para que te hagas una idea de cómo se verá el contenido. Piensa que en este paso aún no hay información real sobre qué entry points vas a incluir ni ningún otro dato.&#x20;
 
-In the last step, destined precisely for the preview and summary of the list configuration, you will see a more accurate image of what the content will look like. Even so, we recommend performing a [test](../como-hacer-un-test.md) before publishing the content to make sure that everything appears as you would like it to. {% endhint %}
+En el último paso, destinado precisamente a la vista previa y resumen de la configuración de la lista ya puedes tener una imagen más fiel de cómo se visualizará el contenido. Aún así, lo más recomendable es hagas un [test](../como-hacer-un-test.md) antes de publicar el contenido para cerciorarte de que todo está según necesitas.
+{% endhint %}
 
-![](../.gitbook/assets/preview_step2.gif)
+![](../.gitbook/assets/preview\_step2.gif)
 
-Click **Continue** to continue setup and proceed to the next step.
+Haz clic en **Continue** para continuar la configuración y pasar al paso siguiente.
 
-{% hint style = "danger" %} **IMPORTANT**: Keep in mind throughout the creation process that clicking the **Continue** button does not save your changes.
+{% hint style="danger" %}
+**IMPORTANTE**: Ten en cuenta en todo el proceso de creación que el hecho de hacer clic en el botón **Continuar** no guarda los cambios.&#x20;
 
-If you need to save the changes in this step, click **Save draft** (in the upper right-hand corner). {% endhint %}
+Si necesitas guardar los cambios en este paso haz clic en **Save draft** (en la parte superior derecha).
+{% endhint %}
