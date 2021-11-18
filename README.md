@@ -1,41 +1,39 @@
-# Entrypoint list CMS
+# Entry point list CMS
 
-Accede al CMS de listas desde el menú lateral Entrypoint List
+Access the list CMS from the Entry Point List side menu.
 
-![](.gitbook/assets/entrypoint\_list\_menu\_lateral.png)
+![](.gitbook/assets/entrypoint_list_menu_lateral.png)
 
-{% hint style="info" %}
-Si no tienes acceso consulta con el OBPM de TCX, para que pueda gestionarlo.
-{% endhint %}
+{% hint style = "info" %} If you don't have access, ask the TCX OBPM for permission. {% endhint%}
 
-El CMS de listas, o entrypoint list CMS, tiene dos partes principales:
+The list CMS, or entry point list CMS, has two main parts:
 
-1. **Creación de entrypoint**. Acceso al proceso de creación de entrypoints.
-2. **Creación de listas**. Acceso al proceso de configuración de listas.
+1. **Creating an entry point**. Access to the entry point creation process.
+2. **Creating lists**. Access to the list configuration process.
 
-![](.gitbook/assets/entrypoint\_list\_entrypoint.gif)
+![](.gitbook/assets/entrypoint_list_entrypoint.gif)
 
-## Antes de empezar...
+## Before starting...
 
-Para unificar términos, es importante que sepas cómo se van a llamar los elementos principales a lo largo de esta guía:
+To unify terms, it is important for you to be familiar with the names used to describe the main elements throughout this guide:
 
-* **Entrypoint**: así es como vas a encontrar la referencia a servicios o a _entry points_ (del inglés).
-* **Entrypoint lists CMS**. Así es como vas a encontrar la referencia al CMS de listas de servicios o de _entry point lists_.
+- **Entry point**: this is the term used to refer to the services or *entry points*.
+- **Entry point lists CMS**. This is the name given to the service lists or *entry point lists* CMS.
 
-### Cómo saber si...
+### How to know if...
 
-#### Estoy en la sección correcta para crear o editar un entrypoint
+#### I am in the right section to create or edit an entry point
 
-En la parte superior izquierda aparece en qué sección estás y tienes que ver el copy `Entrypoints`.
+In the top left-hand corner, you will see the section that you are currently in. If you see `Entry points` you are in the right place.
 
-Además, en la parte superior derecha, también aparece el botón para crear entrypoints, **Create entrypoint**, y el botón **Manage lists**, para cambiar a la sección de listas.
+In the top right-hand corner you will also see the **Create entry point** button. You will also see the **Manage lists** button, which you should click to switch to the lists section.
 
-![](.gitbook/assets/seccion\_entrypoints.png)
+![](.gitbook/assets/seccion_entrypoints.png)
 
-#### Estoy en la sección para crear o editar una lista de entrypoints
+#### I am in the right section to create or edit an entry point list
 
-En la parte superior izquierda aparece en qué sección estás y tienes que ver el copy `Entrypoint Lists`.
+In the top left-hand corner, you will see the section that you are currently in. If you see `Entry point lists`, you are in the right place.
 
-Además, en la parte superior derecha, también aparece el botón para crear listas de entrypoints, **Create list**, y el botón **Manage entrypoints**, para cambiar a la sección de entrypoints.
+In the top right-hand corner you will also see the **Create list** button. You will also see the **Manage entry points** button, which you should click to switch to the entry points section.
 
-![](.gitbook/assets/seccion\_listas.png)
+![](.gitbook/assets/seccion_listas.png)
