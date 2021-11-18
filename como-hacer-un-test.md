@@ -1,101 +1,109 @@
 ---
-description: Test the content before publishing it with the Test option
+description: Prueba el contenido antes de publicarlo con la opción de Test
 ---
 
-# How to perform a test
+# Cómo hacer un test
 
-It is recommended to use the tool's test feature in order to preview the content before impacting a wide range of users.
+Lo ideal es usar la funcionalidad de test que te ofrece la herramienta para que visualices el contenido antes de impactar a una masa amplia de usuarios.
 
-## How to test content before publishing it
+## Cómo probar un contenido antes de publicarlo
 
-The CMS is divided into two parts: the configuration of entry points lists and the configuration of the entry points themselves.
+El CMS está dividido en dos partes, la configuración de listas de entrypoints y la configuración de los propios entrypoints.
 
-The way to test the content is practically the same in both cases: whenever changes are made or at the end of the process of creating a new element. The Test option is then enabled in the CMS.
+La forma de probar el contenido es prácticamente igual en ambos casos: siempre que se produzcan cambios o al final del proceso de creación de un nuevo elemento entonces se habilita en el CMS la opción de Test.
 
-### Configure a test
+### Configurar un test
 
-The option to create a test is shown when changes are made i.e. when there is something to test. You can also test content that you have just created and whose result you need to visualize before impacting x number of users.
+La opción para crear un test se muestra cuando se producen cambios, es decir, cuando hay algo que probar. También se puede hacer un test de un contenido que acabas de crear y cuyo resultado necesitas visualizar antes de impactar a una masa x de usuarios.
 
-#### Testing entry points lists
+#### Test en listas de entrypoints
 
-- If the list is in draft mode, the test option is shown when saving the changes but without publishing them. Click **Test** to create a test for that list.
+* Si la lista está en modo borrador se muestra la opción de test al guardar los cambios pero sin publicarlos. Haz clic en **Test** para crear un test sobre esa lista.&#x20;
 
-{% hint style = "warning" %} Note that if you create a test when the list is in **DRAFT** mode, the list automatically changes to **PAUSED** state. {% endhint %}
+{% hint style="warning" %}
+Ten en cuenta que si creas un test cuando la lista está en modo **DRAFT** entonces la lista pasa automáticamente a estado **PAUSED**.
+{% endhint %}
 
-- If the list is published or paused, the test option is shown when you make changes to that list. In that case, click **Save and start test** to save those changes and start a test.
+* Si la lista está publicada o pausada se muestra la opción de test cuando hagas cambios sobre esa lista. En ese caso haz clic en **Save and start test** para guardar esos cambios e iniciar un test.&#x20;
 
-In both cases it indicates:
+En ambos casos indica:
 
-**Test description**: add a description that helps you identify what you are testing, what the changes are.
+**Test description**: añade una descripción que te ayude a identificar qué estás probando, cuáles son los cambios.
 
-**Novum user IDs (optional)**: add one or more user IDs, separated only by commas (without spaces), in which you want to perform tests. This is an optional field.
+**Novum user IDs (optional)**: añade uno o más user IDs, separados únicamente por comas (sin espacios) en los que quieras hacer las pruebas. Es un campo opcional.
 
-Click **Create test**.
+Haz clic en **Create test**.
 
-![](.gitbook/assets/Create_test.png)
+![](.gitbook/assets/Create\_test.png)
 
-{% hint style = "info" %} **How to get the user ID**
+{% hint style="info" %}
+**Cómo obtener el user ID**
 
-1. Make sure you have the Enterprise version of the app downloaded.
-2. Open the app
-3. Shake the phone
-4. Access the "Authentication" section
-5. the number you need is the one in the **User ID** field {% endhint %}
+1. Asegúrate de tener descargada la versión Enterprise de la app.
+2. Abre la app
+3. Agita el teléfono
+4. Accede a la sección "Autentication"
+5. el número que necesitas es el del campo **User ID**
+{% endhint %}
 
-#### Testing an entry point
+#### Test en un entrypoint
 
-Unlike lists, you cannot test an entry point that is in draft mode.
+A diferencia del caso de las listas, no puedes hacer un test sobre un entrypoint que está en modo borrador.&#x20;
 
-For entry points in published status, make the changes you need to test and click the **Save and start test** option. Indicate:
+En el caso de entrypoints en estado publicado, haz los cambios que necesitas probar y haz clic en la opción de **Save and start test**. Indica:
 
-**Test description**: add a description that helps you identify what you are testing, what the changes are, etc.
+**Test description**: añade una descripción que te ayude a identificar qué estás probando, cuáles son los cambios.
 
-**Novum user IDs (optional)**: add one or more user IDs, separated only by commas (without spaces), in which you want to perform tests. This is an optional field.
+**Novum user IDs (optional)**: añade uno o más user IDs, separados únicamente por comas (sin espacios) en los que quieras hacer las pruebas. Es un campo opcional.
 
-Click **Create test**.
+Haz clic en **Create test**.
 
-![](.gitbook/assets/Create_test.png)
+![](.gitbook/assets/Create\_test.png)
 
-### How to publish the content of a test
+### Cómo publicar el contenido de un test
 
-First, you'll know that there is a test ongoing for a list of entry points if you see the **TEST** status tag:
+Para empezar, sabrás que una lista de entrypoints tiene un test en marcha gracias a la etiqueta de estado **TEST**:
 
-![Detalle de la etiqueta TEST en una lista de entrypoints](https://github.com/nazaretcaballo-CX/entrypoints-CMS/blob/ES/en-US/.gitbook/assets/detalle_test_tag.png?raw=true)
+![Detalle de la etiqueta TEST en una lista de entrypoints](.gitbook/assets/detalle\_test\_tag.png)
 
-To publish the content of a test, access the list of entry points for which that test is running.
+Para publicar el contenido de un test accede a la lista de entrypoints sobre la que está en marcha ese test.
 
-When you open the list, the content appears divided into two tabs. This allows you to see, at all times, the content prior to the test and the content of the test itself.
+Al abrir la lista, el contenido aparece dividido en dos pestañas para que puedas ver, en todo momento, el contenido previo al test y el propio contenido del test.
 
-![Detalle de la etiqueta TEST en una lista de entrypoints](https://github.com/nazaretcaballo-CX/entrypoints-CMS/blob/ES/en-US/.gitbook/assets/detalle_pestan%CC%83as_test.png?raw=true)
+![Detalle de las pestañas de contenido previo y de test](.gitbook/assets/detalle\_pestañas\_test.png)
 
- 
+&#x20;
 
-{% hint style = "warning" %} You can only make changes to the content if you are in the **Test** tab. Use the other tab to see the content prior to the changes that you made for the test. {% endhint %}
+{% hint style="warning" %}
+Solo puedes hacer cambios en el contenido si estás en la pestaña **Test**. Usa la otra pestaña para ver el contenido previo a los cambios que has hecho para el test.&#x20;
+{% endhint %}
 
-When you have made sure that the content in the **Test** tab, in all the steps, is the content you want to apply, click **Publish**. Click **Yes** when the confirmation message appears.
+Cuando te hayas asegurado que el contenido que tienes en la pestaña **Test**, en todos los pasos, es el contenido que quieres aplicar entonces haz clic en **Publish**. Haz clic en **Yes** en el mensaje de confirmación.
 
-![](.gitbook/assets/Detalle_Publish.png)
+![](.gitbook/assets/Detalle\_Publish.png)
 
-Click **Close** to return to the main entry point lists screen, **Entry point Lists**.
+Haz clic en **Close** para volver a la pantalla principal de listas de entrypoints, **Entrypoint Lists**.
 
-{% hint style = "success" %} :thumbsup: On the main screen, you can check that the **TEST** tag has disappeared in the list status. {% endhint %}
+{% hint style="success" %}
+:thumbsup:En la pantalla principal puedes comprobar que en el estado de la lista ha desaparecido la etiqueta **TEST**.
+{% endhint %}
 
-### How to delete a test
+### Cómo descartar un test
 
-If you decide to discard the changes after testing the content of an entry points list, you need to access the entry points list that the ongoing test applies to.
+Si tras probar el contenido de una lista de entrypoints, con un Test en curso, decides descartar los cambios entonces accede a la lista de entrypoints sobre la que está en marcha ese test.
 
-Click **Continue** until you reach the **Preview &amp; Validate** step, and then click **Delete test**.
+Haz clic en **Continue** hasta llegar al último paso **Preview & Validate** y haz clic en **Delete test**.
 
-![](.gitbook/assets/Detalle_DeleteTest.png)
+![](.gitbook/assets/Detalle\_DeleteTest.png)
 
-When you delete a test, all the changes that you had made to the entry points list will be deleted. The content will then be created as it was previously.
+Cuando descartas un test implica eliminar los cambios que habías hecho sobre la lista de entrypoints y el contenido se crea como estaba previamente.
 
-### How to add, remove or modify the Novum User IDs of a test
+### Como añadir, quitar o modificar los Novum user IDs de un test
 
-If you need to edit the test in order to add, remove or modify the users who can view a certain test, you need to access that list.
+Si necesitas editar el test para poder añadir, quitar o modificar los usuarios que pueden ver un determinado test entonces accede a esa lista.
 
-In the **Test** tab you can see, in the **Overview** step, the information related to the test: the description, who started it and the date on which it was created.
+En la pestaña **Test** puedes consultar, en el primer paso **Overview**, la información relativa al test: la descripción, quién lo ha iniciado y la fecha de creación.
 
-Click on ![](.gitbook/assets/editar_icono.png)to modify user numbers. You can also do this to add new user IDs or delete those which already exist. Click **Save** to save the changes.
+Haz clic en ![](.gitbook/assets/editar\_icono.png)para modificar los números de usuario. También para añadir user ID nuevos o eliminar lo que ya hay. Haz clic en **Save** para guardar los cambios.
 
-![](.gitbook/assets/Change_test_IDs.gif)
+![](.gitbook/assets/Change\_test\_IDs.gif)
