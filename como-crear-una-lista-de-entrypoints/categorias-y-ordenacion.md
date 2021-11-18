@@ -1,59 +1,55 @@
 ---
-description: Paso 3 de creación de una lista de entry points
+description: Step 3 of creating an entry point list
 ---
 
-# Categorías y ordenación
+# Categories and sorting
 
-Este **paso es opcional** y por tanto solo necesitarás es necesario únicamente si la lista que estás creando requiere algunas de las siguientes características:
+This **step is optional**. Therefore, you will only need it if the list you are creating requires any of the following:
 
-* **Ordenar** de forma diferente los entry points **en función de las audiencias**, es decir, ordenar en función de los distintos tipos de usuario.
-* **Agrupar** los entry points **por Categorías**, es decir, si la lista de entry points tiene que aparecer** **dividida en categorías en la página de vista completa (la que aparece cuando el usuario hace clic en **"Otros servicios"**)&#x20;
+- **Sort** entry points differently **according to the audience**. In other words, sort them based on the different types of user.
+- **Group** entry points **by Categories**. In other words, if the list of entry points needs to appear divided into categories on the full-view page (the one that appears when the user clicks on **"Other services"**)
 
-Para hacer categorías u ordenaciones diferentes haz clic en **Add categories and custom sorting**.
+To add categories or custom sorting options, click on **Add categories and custom sorting**.
 
-Si la lista que estás creando no requiere nada de lo anterior omite este paso y haz clic en **Continue**.
+If the list you are creating does not require any of the above, skip this step and click **Continue**.
 
-## Nueva personalización
+## New personalization
 
-{% hint style="warning" %}
-**IMPORTANTE**: Si creas varias personalizaciones entonces se seleccionará la primera personalización que coincida con la audiencia, según el orden en que has creado las personalizaciones (de arriba abajo). Si no hay ninguna que coincida entonces:
+{% hint style = "warning" %} **IMPORTANT**: If you create multiple personalizations, the first personalization that matches the audience will be selected, according to the order in which you created them (from top to bottom). If none of them match, then:
 
-* Se usará la ordenación por defecto que se haya indicado en el paso 2 (**Services**)
-* Se genera una lista simple sin categorías
-{% endhint %}
+- The default sorting option indicated in step 2 (**Services**) will be used
+- A simple list is generated without categories {% endhint %}
 
-Sigue estos pasos para configurar cada personalización:
+Follow these steps to configure each personalization:
 
-1. Indica un nombre para tu personalización en el campo **New personalization **y haz clic en** Add personalization**.
-2. Selecciona la audiencia para esa personalización en el desplegable **Select your audience**.
-3. Ordena los entry points para esa audiencia
+1. Enter a name for your personalization in the **New personalization**&nbsp;field and click **Add personalization**.
+2. Select the audience for that personalization in the **Select your audience** drop-down menu.
+3. Sort the entry points for that audience
 
 ![](../.gitbook/assets/personalization.png)
 
-Cuando hayas creado las personalizaciones que necesites puedes ordenarlas simplemente con _Drag\&drop_. Recuerda que el usuario verá la primera personalización que le aplique según la audiencia.
+When you have created the personalizations that you need, you can simply order them with *drag &amp; drop*. Remember that the user will see the first personalization applied according to the audience.
 
-Para editar cualquiera de las personalizaciones selecciónala haciendo clic en el nombre y cambia la audiencia, las categorías y/o el orden de los entry points.
+To edit any of the personalizations, select them by clicking on their name and changing the audience, the categories and/or the order of the entry points.
 
-Para borrar una personalización haz clic en el icono ![](../.gitbook/assets/icono\_borrar.png) en el nombre de la personalización.
+To delete a personalization, click on the icon ![](../.gitbook/assets/icono_borrar.png) in the name of the personalization.
 
-### Orden y categorías
+### Order and categories
 
-Para poder dividir una lista por categorías es necesario que crees, al menos, una personalización. Si quieres que la lista se vea categorizada sin tener en cuenta la audiencia entonces, simplemente, crea la personalización ignorando el desplegable Audiences. En caso contrario indica la audiencia en el desplegable **Select your audience**.
+To be able to divide a list by categories, you need to create at least one personalization. If you want the list to appear as if it is sorted by categories without taking the audience into account, simply create the personalization while ignoring the Audiences drop-down menu. Otherwise, indicate the audience in the **Select your audience** drop-down menu.
 
 #### Sorting and categories
 
-Añade el nombre de la primera categoría en el campo **New category name** y haz clic en **Add category**. Repite este paso tantas veces como categorías necesites.
+Add the name of the first category in the **New category name** field and click **Add category**. Repeat this step as many times as required.
 
-Como puedes comprobar las categorías se crear una bajo la siguiente. Para ordenar los entry points simplemente arrástralos, uno a uno, en el orden que consideres, bajo la categoría que corresponda:
+The categories will be created as shown below. To order the entry points, simply drag them, one-by-one, in the order you choose, under the corresponding category:
 
-![Las categorías se pintan en otro color y además llevan el icono de eliminar 😉](../.gitbook/assets/categorias\_orden.gif)
+![Las categorías se pintan en otro color y además llevan el icono de eliminar 😉](https://github.com/nazaretcaballo-CX/entrypoints-CMS/blob/ES/en-US/.gitbook/assets/categorias_orden.gif?raw=true)
 
-Para borrar una categoría haz clic en ![](../.gitbook/assets/icono\_borrar.png) en el nombre de la categoría.
+To delete a category, click![](../.gitbook/assets/icono_borrar.png) in the category name.
 
-Haz clic en **Continue** para continuar la configuración y pasar al paso siguiente.
+Click **Continue** to continue the set-up and proceed to the next step.
 
-{% hint style="danger" %}
-**IMPORTANTE**: Ten en cuenta en todo el proceso de creación que el hecho de hacer clic en el botón **Continuar** no guarda los cambios.&#x20;
+{% hint style = "danger" %} **IMPORTANT**: Keep in mind throughout the creation process that clicking the **Continue** button does not save your changes.
 
-Si necesitas guardar los cambios en este paso haz clic en **Save draft** (en la parte superior derecha).
-{% endhint %}
+If you need to save the changes in this step, click **Save draft** (in the upper right-hand corner). {% endhint%}

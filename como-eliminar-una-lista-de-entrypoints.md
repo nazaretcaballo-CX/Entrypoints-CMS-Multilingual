@@ -1,17 +1,13 @@
-# Cómo eliminar una lista de entrypoints
+# How to delete an entry points list
 
-{% hint style="warning" %}
-Antes de eliminar una lista asegúrate de que realmente quieres borrarla porque esta acción no se puede deshacer. Si tienes dudas sobre si eliminar o no una lista recuerda que siempre puedes pausarla para que no se vea.
-{% endhint %}
+{% hint style = "warning" %} Before deleting a list, make sure that you really want to delete it because this action cannot be undone. If you have doubts about whether or not to delete a list, remember that you can always pause it so that it is not seen. {% endhint %}
 
-Para eliminar una lista de entrypoints accede a la pantalla principal y acerca el ratón al final de la fila de la lista. Haz clic en ![](.gitbook/assets/icono\_submenu.png) y selecciona la opción **Delete**.&#x20;
+To delete an entry points list, go to the main screen and move the mouse to the end of the list row. Click on ![](.gitbook/assets/icono_submenu.png) and select the **Delete** option.
 
-![](.gitbook/assets/Eliminar\_elemento.png)
+![](.gitbook/assets/Eliminar_elemento.png)
 
-Haz clic en **Aceptar** para confirmar el borrado del elemento.
+Click **Accept** to confirm that you want to delete the item.
 
-![](.gitbook/assets/Confirmar\_Delete.png)
+![](.gitbook/assets/Confirmar_Delete.png)
 
-{% hint style="danger" %}
-No es posible eliminar una lista en estado PUBLISHED. Para eliminarla primero pausa la lista, también desde el **menú secundario > Paused**, y a continuación elimínala como está descrito en este capítulo.
-{% endhint %}
+{% hint style = "danger" %} It is not possible to delete a list in PUBLISHED state. To delete it, you first need to pause the list. This is also done by going to **secondary menu &gt; Paused**. Then you can delete it as described in this chapter. {% endhint %}
