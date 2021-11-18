@@ -1,46 +1,43 @@
 ---
-description: Paso 2 de creación de una lista de entry points
+description: Step 2 of creating an entry point list
 ---
 
-# Servicios
+# Services
 
-En este paso Services haz clic en **Add entrypoint** para añadir, uno a uno, los entrypoints que conforman la lista.
+In this Services step, click on **Add entry point** to add, one-by-one, the entry points that make up the list.
 
-En la modal selecciona el entrypoint que quieras añadir. Puedes buscar directamente en el desplegable o empezar a escribir por su nombre y seleccionarlo:
+Select the entry point you want to add. You can search directly in the drop-down menu or start typing its name and select it when it appears:
 
-![](../.gitbook/assets/add\_entrypoint.gif)
+![](../.gitbook/assets/add_entrypoint.gif)
 
-Podrás ver la información del entry point antes de confirmar: su nombre interno, el texto que se muestra al usuario y la audiencia o audiencias para las que está configurado. Haz clic en **Add entrypoint** para añadirlo a la lista.
+You will be able to view the information about the entry point before confirming, including: its internal name, the text that is shown to the user and the audience(s) for which it is configured. Click **Add entry point** to add it to the list.
 
-### Cómo cambiar el orden de los entry points en la lista
+### How to change the order of entry points in the list
 
-El orden en que se muestran en este paso los entry points es el mismo orden en el que se mostrarán al usuario. Si necesitas cambiar el orden usa la función _Drag\&Drop: _simplemente arrastra y suelta a la posición deseada.
+The order in which the entry points are shown in this step is the same order in which they will be shown to the user. If you need to change the order, use <em>drag &amp; drop</em>: to simply move them to the desired position.
 
-![](../.gitbook/assets/Drag\&Drop.gif)
+![](../.gitbook/assets/Drag&Drop.gif)
 
-### Cómo editar un entry point
+### How to edit an entry point
 
-Haz clic en el icono ![](../.gitbook/assets/Icono\_flecha.png) en la fila del entry point. Se abre una pestaña nueva en tu navegador. Haz los cambios que necesites y cuando vuelvas a la lista refresca la pestaña para ver esos cambios.
+Click on the icon![](../.gitbook/assets/Icono_flecha.png) in the entry point row. A new tab will open in your browser. Make the changes you need. Then, when you return to the list, refresh the tab to see those changes.
 
-![](../.gitbook/assets/detalle\_flecha.png)
+![](../.gitbook/assets/detalle_flecha.png)
 
-### Cómo eliminar un entry point de la lista
+### How to remove an entry point from the list
 
-Haz clic en el icono ![](../.gitbook/assets/icono\_borrar\_entrypoint.png) en la fila del entry point. Confirma el borrado haciendo clic en **Remove** en el mensaje que se te muestra.
+Click on the icon![](../.gitbook/assets/icono_borrar_entrypoint.png) in the entry point row. Confirm that you want to remove it by clicking **Remove** in the message that appears.
 
-![](../.gitbook/assets/detalle\_borrar.png)
+![](../.gitbook/assets/detalle_borrar.png)
 
-### Cómo obtener información sobre las audiencias de un entry point
+### How to get information about the audiences of an entry point
 
-En la columna **AUDIENCES** puedes ver la información relativa a las audiencias de un entry point acercando el ratón y haciendo clic en el número de audiencias del entry point.
+In the **AUDIENCES** column you can see the information about the audiences of an entry point by moving the mouse and clicking on the number of audiences of the entry point.
 
-![](../.gitbook/assets/detalle\_audiencias.png)
+![](../.gitbook/assets/detalle_audiencias.png)
 
-Haz clic en **Continue** para continuar la configuración y pasar al paso siguiente.
+Click **Continue** to continue the set-up and proceed to the next step.
 
-{% hint style="danger" %}
-**IMPORTANTE**: Ten en cuenta en todo el proceso de creación que el hecho de hacer clic en el botón **Continuar** no guarda los cambios.&#x20;
+{% hint style = "danger" %} **IMPORTANT**: Keep in mind throughout the creation process that clicking the **Continue** button does not save your changes.
 
-Si necesitas guardar los cambios en este paso haz clic en **Save draft** (en la parte superior derecha).
-{% endhint %}
-
+If you need to save the changes in this step, click **Save draft** (in the upper right-hand corner). {% endhint %}
