@@ -8,9 +8,9 @@ description: As dúvidas mais frequentes respondidas de maneira simples
 
 Basta editar e salvar as mudanças.
 
-Na lista de entry points, clique na linha do entry point que você deseja editar, clique no ícone ![](.gitbook/assets/icono_menu_secundario.png) e clique na opção **Editar**.
+Na lista de entry points, clique na linha do entry point que você deseja editar, clique no ícone ![](.gitbook/assets/icono\_menu\_secundario.png) e clique na opção **Editar**.
 
-![](.gitbook/assets/edit_menu_secundario.png)
+![](.gitbook/assets/edit\_menu\_secundario.png)
 
 ### Modifiquei um entry point que aparece em várias listas. Será que a mudança será vista em todas elas?
 
@@ -22,10 +22,12 @@ Isto porque a pré-visualização do passo 2 exibe a lista tal como o usuário a
 
 Observe este simples exemplo que o ajudará:
 
-![](.gitbook/assets/full_list_title.gif)
+![](.gitbook/assets/full\_list\_title.gif)
 
 ### Posso ver como os usuários verão o conteúdo antes da publicação?
 
 É claro que você pode. Na verdade, é uma prática muito boa. Para fazer isso, é preciso criar um teste. Veja todas as informações ao respeito na seção:
 
-{% content-ref url="como-fazer-um-teste.md" %} [como-fazer-um-teste.md](como-hacer-un-test.md) {% endcontent-ref %}
+{% content-ref url="como-hacer-un-test.md" %}
+[como-hacer-un-test.md](como-hacer-un-test.md)
+{% endcontent-ref %}

@@ -8,61 +8,76 @@
 
 Um usuário nunca verá um entrypoint que não lhe corresponda, sempre que esse entrypoint esteja corretamente configurado.
 
-{% hint style="success" %} Por exemplo:
+{% hint style="success" %}
+Por exemplo:
 
-*Alice é usuária de um dispositivo Android. Alice nunca verá um entrypoint configurado para ser visto apenas por usuários de iOS.* {% endhint %}
+_Alice é usuária de um dispositivo Android. Alice nunca verá um entrypoint configurado para ser visto apenas por usuários de iOS._
+{% endhint %}
 
 ## Criar um entrypoint
 
 Antes de criar ou editar um entrypoint, verifique se está na [seção de criação de entrypoints](./#estoy-en-la-seccion-para-crear-o-editar-un-entrypoint).
 
-![Seção para criar entrypoints](.gitbook/assets/seccion_entrypoints.png)
+![Seção para criar entrypoints](.gitbook/assets/seccion\_entrypoints.png)
 
 Clique no botão **Create entrypoint**.
 
 Para cada entrypoint, preencha os seguintes campos:
 
-![](.gitbook/assets/entrypoint_creacion.png)
+![](.gitbook/assets/entrypoint\_creacion.png)
 
-**Icon default.** Ícone vinculado ao entrypoint, que é exibido quando os entrypoints são apresentados em modo lista. Clique em **Set** :outbox_tray: para adicionar um ícone.<br> :low_brightness: É obrigatório.
+**Icon default.** Ícone vinculado ao entrypoint, que é exibido quando os entrypoints são apresentados em modo lista. Clique em **Set** :outbox\_tray: para adicionar um ícone.\
+:low\_brightness: É obrigatório.
 
-**Icon dark**. Versão para *dark mode* do ícone vinculado ao entrypoint. Clique em Clique em **Set** :outbox_tray: para adicionar um ícone.<br> :low_brightness: É opcional. Se você não incluir, então a versão default também será utilizada em *dark mode*.
+**Icon dark**. Versão para _dark mode_ do ícone vinculado ao entrypoint. Clique em Clique em **Set** :outbox\_tray: para adicionar um ícone.\
+:low\_brightness: É opcional. Se você não incluir, então a versão default também será utilizada em _dark mode_.
 
-{% hint style="warning" %} Note que este campo de ícones só é exibido se requerido pela OB.
+{% hint style="warning" %}
+Note que este campo de ícones só é exibido se requerido pela OB.
 
-- Se este campo não é visto no CMS, quer dizer que em nenhum caso os entrypoints vão acompanhados por ícones.
-- Se pelo contrário, este campo estiver visível no CMS, então é obrigatório adicionar pelo menos o **Icon default**. {% endhint %}
+* Se este campo não é visto no CMS, quer dizer que em nenhum caso os entrypoints vão acompanhados por ícones.
+* Se pelo contrário, este campo estiver visível no CMS, então é obrigatório adicionar pelo menos o **Icon default**.
+{% endhint %}
 
-**Entrypoint internal name**. Insira um nome que descreva o entrypoint que você está criando, para que seja mais fácil sua posterior localização. Este nome não é exibido aos usuários.<br> :low_brightness: O nome pode conter letras tanto maiúsculas quanto minúsculas, números e espaços, mas não admite outros caracteres, como travessões baixos, acentos ou outros caracteres especiais.
+**Entrypoint internal name**. Insira um nome que descreva o entrypoint que você está criando, para que seja mais fácil sua posterior localização. Este nome não é exibido aos usuários.\
+:low\_brightness: O nome pode conter letras tanto maiúsculas quanto minúsculas, números e espaços, mas não admite outros caracteres, como travessões baixos, acentos ou outros caracteres especiais.
 
-{% hint style="success" %} :nerd: Ao indicar o nome interno, pense de maneira natural como designar para que qualquer pessoa entenda o que representa esse entrypoint.
+{% hint style="success" %}
+:nerd: Ao indicar o nome interno, pense de maneira natural como designar para que qualquer pessoa entenda o que representa esse entrypoint.
 
-*Por exemplo:*
+_Por exemplo:_
 
- **:thumbsup:* Programar encontro na loja*<br> **:thumbsdown:* ProgramarEncontroLojaV1* {% endhint %}
+:thumbsup:_ Programar encontro na loja_\
+:thumbsdown:_ ProgramarEncontroLojaV1_
+{% endhint %}
 
 **Entrypoint display name**. Nome do entrypoint visto no app. Este nome **sim** é visto pelo usuário.
 
 **Entrypoint ID**. É construído de maneira automática com base no Entrypoint internal name, mas você pode fazer alterações em caso necessário.
 
-![](.gitbook/assets/crear_entrypoint_ID_automatico.gif)
+![](.gitbook/assets/crear\_entrypoint\_ID\_automatico.gif)
 
 #### **Carousel images**
 
-Abra esta seção para adicionar as imagens do entrypoint que está criando. São as imagens exibidas quando a lista é configurada para ser exibida no modo carrusel.<br> :low_brightness: Estas imagens não são obrigatórias e apenas são exibidas se na lista você está configurando o modo de vista Carrusel. Se não incluir imagens, então uma imagem com a cor base da OB será exibida.
+Abra esta seção para adicionar as imagens do entrypoint que está criando. São as imagens exibidas quando a lista é configurada para ser exibida no modo carrusel.\
+:low\_brightness: Estas imagens não são obrigatórias e apenas são exibidas se na lista você está configurando o modo de vista Carrusel. Se não incluir imagens, então uma imagem com a cor base da OB será exibida.
 
 Você tem a opção de incluir duas imagens:
 
-- Clique em <strong>Set image</strong>: outbox_tray: para adicionar a imagem que será exibida no carrusel de maneira predeterminada.
-- Clique em <strong>Set dark imagen</strong> :outbox_tray: para adicionar a imagem que será exibida no carrousel no modo noite ou *dark mode*.<br> :low_brightness: Se você não a incluir, então, a imagem incluída para o modo predeterminado será exibida.
+* Clique em **Set image **:outbox\_tray: para adicionar a imagem que será exibida no carrusel de maneira predeterminada.
+* Clique em **Set dark image** :outbox\_tray: para adicionar a imagem que será exibida no carrousel no modo noite ou _dark mode_.\
+  :low\_brightness: Se você não a incluir, então, a imagem incluída para o modo predeterminado será exibida.
 
-![](.gitbook/assets/carousel_images.png)
+![](.gitbook/assets/carousel\_images.png)
 
-{% hint style="info" %} :nerd: Observe que a imagem requerida é a **Set imagen**, à esquerda. Se você incluir só a Dark image, então também solicitará a inclusão da Imagen Default. {% endhint %}
+{% hint style="info" %}
+:nerd:Observe que a imagem requerida é a **Set image**, à esquerda. Se você incluir só a Dark image, então também solicitará a inclusão da Image Default.
+{% endhint %}
 
 #### **Tracking data**
 
-Informações relacionadas com o tracking do entrypoint. Com o total destes campos é composta a URL de tracking do entry point.<br> :low_brightness: Todos os campos são opcionais
+Informações relacionadas com o tracking do entrypoint. Com o total destes campos é composta a URL de tracking do entry point.\
+:low\_brightness: Todos os campos são opcionais
 
 **Category (optional)**. Categoria do entrypoint.
 
@@ -70,7 +85,7 @@ Informações relacionadas com o tracking do entrypoint. Com o total destes camp
 
 **Label (optional)**. Etiqueta que identifica o entrypoint.
 
-![](.gitbook/assets/tracking_data.png)
+![](.gitbook/assets/tracking\_data.png)
 
 ### Create your first URL
 
@@ -78,12 +93,12 @@ Configure esta seção para indicar a que URL direciona o entrypoint quando o us
 
 **Add URL**. Selecione uma das opções:
 
-- **Preconfigured**. Selecione esta opção para escolher uma URL fixa, previamente configurada. Clique em Preconfigured URL data para selecionar uma URL das disponíveis. Uma vez feito isso, pode consultar (mas não editar) o **URL** e o provider, que é exibido no campo **For**.
-- **Custom**. Selecione esta opção para adicionar uma URL à mão.
+* **Preconfigured**. Selecione esta opção para escolher uma URL fixa, previamente configurada. Clique em Preconfigured URL data para selecionar uma URL das disponíveis. Uma vez feito isso, pode consultar (mas não editar) o **URL** e o provider, que é exibido no campo **For**.
+* **Custom**. Selecione esta opção para adicionar uma URL à mão.
 
-![Ejemplo de Preconfigured URL y de Custom URL](.gitbook/assets/AddURL_Entrypoints.png)
+![Ejemplo de Preconfigured URL y de Custom URL](.gitbook/assets/AddURL\_Entrypoints.png)
 
-Clique outra vez no menu suspenso Add URL (opcional) e selecione  para adicionar URLs em função dos públicos.
+Clique outra vez no menu suspenso Add URL (opcional) e selecione para adicionar URLs em função dos públicos.
 
 #### Ordem das URLs
 
@@ -93,15 +108,16 @@ Mas o que acontece se as URLs direcionam públicos não exclusivos? Isto é, há
 
 O sistema lê de cima para baixo, isto é, mostrará ao usuário a URL que primeiro encontrar fazendo uma busca de cima.
 
-Uma vez configuradas todas as URLs, elas podem ser ordenadas por meio de *drag&amp;drop*.
+Uma vez configuradas todas as URLs, elas podem ser ordenadas por meio de _drag\&drop_.
 
-{% hint style="success" %} Por exemplo:
+{% hint style="success" %}
+Por exemplo:
 
 🥇Você configurou uma URL para o público `os-fãs-do-esporte`. Esta URL leva a uma promoção sobre novos canais de esporte.
 
 🏀Configure uma segunda URL para o público `os-fãs-do-basquete`. Neste caso, a URL leva a uma promoção com uma série de documentários sobre a NBA.
 
-*Alice é uma usuária que adora esportes e, pela configuração dos públicos, esta usuária está integrada dentro do público `os-fãs-do-esporte` e também no público `os-fãs-do-basquete.`*
+_Alice é uma usuária que adora esportes e, pela configuração dos públicos, esta usuária está integrada dentro do público `os-fãs-do-esporte` e também no público `os-fãs-do-basquete.`_
 
 Que promoção a Alice verá? Depende da ordem en que você colocar as URLs:
 
@@ -114,7 +130,6 @@ Ela verá a promoção sobre os documentários da NBA se você colocar as URLs d
 
 1. `os-fãs-do-basquete`
 2. `os-fãs-do-esporte`
-
 {% endhint %}
 
 Você tem uma URL configurada para o público `os-fãs-do-esporte`
@@ -127,7 +142,7 @@ Uma URL foi configurada sobre uma jogo de basquete muito importante e outra URL 
 
 #### Como apagar uma URL
 
-Clique em ![](.gitbook/assets/icono_borrar.png) para eliminar uma URL configurada.
+Clique em ![](.gitbook/assets/icono\_borrar.png) para eliminar uma URL configurada.
 
 Clique no botão **Save and publish** para publicar as alterações.
 
@@ -137,10 +152,12 @@ Clique no botão **Save draft** para salvar as mudanças sem publicá-las. Poder
 
 Clique na linha do entrypoint que deseja editar. A janela de criação/edição do entrypoint é aberta. Faça as mudanças necessárias.
 
-{% hint style="warning" %} Observe que há dois campos que não podem ser editados: **Internal name** e **ID** {% endhint %}
+{% hint style="warning" %}
+Observe que há dois campos que não podem ser editados: **Internal name** e **ID**
+{% endhint %}
 
 Ao realizar mudanças você poderá:
 
-- Salvar os campos, mas não publicá-los: clique em <strong>Save and unpublish</strong>.
-- Salvar as mudanças e publicá-las: clique em **Save and publish**.
-- Iniciar um teste: clique em **Save and test**.
+* Salvar os campos, mas não publicá-los: clique em **Save and unpublish**.
+* Salvar as mudanças e publicá-las: clique em **Save and publish**.
+* Iniciar um teste: clique em **Save and test**.

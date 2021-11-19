@@ -18,11 +18,13 @@ A opção para criar um teste é exibida quando acontecem mudanças, isto é, qu
 
 #### Teste em listas de entrypoints
 
-- Se a lista estiver em modo de rascunho, a opção de teste é exibida ao salvar as mudanças, mas sem publicá-las. Clique em **Teste** para criar um teste nessa lista.
+* Se a lista estiver em modo de rascunho, a opção de teste é exibida ao salvar as mudanças, mas sem publicá-las. Clique em **Test** para criar um teste nessa lista.
 
-{% hint style="warning" %} Observe que se você criar um teste quando a lista estiver no modo **DRAFT**, então a lista passará automaticamente para o estado **PAUSED**. {% endhint %}
+{% hint style="warning" %}
+Observe que se você criar um teste quando a lista estiver no modo **DRAFT**, então a lista passará automaticamente para o estado **PAUSED**.
+{% endhint %}
 
-- Se a lista estiver publicada ou pausada, é exibida a opção de teste ao realizar mudanças nessa lista. Nesse caso, clique em **Save and start test** para salvar essas mudanças e iniciar um teste.
+* Se a lista estiver publicada ou pausada, é exibida a opção de teste ao realizar mudanças nessa lista. Nesse caso, clique em **Save and start test** para salvar essas mudanças e iniciar um teste.
 
 Em ambos os casos, indique:
 
@@ -32,15 +34,17 @@ Em ambos os casos, indique:
 
 Clique em **Create test**.
 
-![](.gitbook/assets/Create_test.png)
+![](.gitbook/assets/Create\_test.png)
 
-{% hint style="info" %} **Como obter o user ID**
+{% hint style="info" %}
+**Como obter o user ID**
 
 1. Certifique-se de ter baixado a versão Enterprise do aplicativo.
 2. Abra o app
 3. Agite o telefone
 4. Acesse a seção "Autentication"
-5. O número que você preciso é do campo **User ID** {% endhint %}
+5. O número que você preciso é do campo **User ID**
+{% endhint %}
 
 #### Teste em um entrypoint
 
@@ -54,39 +58,41 @@ No caso de entrypoints em estado publicado, faça as modificações que precisa 
 
 Clique em **Create test**.
 
-![](.gitbook/assets/Create_test.png)
+![](.gitbook/assets/Create\_test.png)
 
 ### Como publicar o conteúdo de um teste
 
 Para começar, você saberá que uma lista de entrypoints tem um teste em andamento devido à etiqueta de estado **TEST**:
 
-![Detalle de la etiqueta TEST en una lista de entrypoints](.gitbook/assets/detalle_test_tag.png)
+![Detalle de la etiqueta TEST en una lista de entrypoints](.gitbook/assets/detalle\_test\_tag.png)
 
 Para publicar o conteúdo de um teste, acesse a lista de entrypoints em que esse teste está sendo realizado.
 
 Uma vez aberta a lista, o conteúdo aparece dividido em duas abas para podar visualizar, a qualquer momento, o conteúdo prévio ao teste e o próprio conteúdo do teste.
 
-![Detalle de las pestañas de contenido previo y de test](.gitbook/assets/detalle_pestan%CC%83as_test.png)
+![Detalle de las pestañas de contenido previo y de test](.gitbook/assets/detalle\_pestañas\_test.png)
 
- 
-
-{% hint style="warning" %} Você só pode fazer mudanças no conteúdo se estiver na aba **Test**. Use a outra aba para visualizar o conteúdo antes das mudanças que você fez no teste. {% endhint %}
+{% hint style="warning" %}
+Você só pode fazer mudanças no conteúdo se estiver na aba **Test**. Use a outra aba para visualizar o conteúdo antes das mudanças que você fez no teste.
+{% endhint %}
 
 Quando você tiver certeza de que o conteúdo que você tem na aba **Test**, em todas as etapas, é o conteúdo que você deseja aplicar, então clique em **Publish**. Clique **Yes** na mensagem de confirmação.
 
-![](.gitbook/assets/Detalle_Publish.png)
+![](.gitbook/assets/Detalle\_Publish.png)
 
 Clique em **Close** para retornar à tela principal das listas de entrypoints, **Entrypoint Lists**.
 
-{% hint style="success" %} :thumbsup:Na tela principal, você pode ver que na lista de estado a etiqueta desapareceu. **TEST**. {% endhint %}
+{% hint style="success" %}
+:thumbsup:Na tela principal, você pode ver que na lista de estado a etiqueta desapareceu **TEST**.
+{% endhint %}
 
 ### Como descartar um teste
 
 Se após testar o conteúdo de uma lista de entrypoints com um teste em andamento você decidir descartar as mudanças, então acesse a lista de entrypoints na qual o teste está sendo executado.
 
-Clique em **Continue** até chegar ao último passo **Preview &amp; Validate** e clique em **Delete test**.
+Clique em **Continue** até chegar ao último passo **Preview & Validate** e clique em **Delete test**.
 
-![](.gitbook/assets/Detalle_DeleteTest.png)
+![](.gitbook/assets/Detalle\_DeleteTest.png)
 
 Descartar um teste significa apagar as alterações feitas na lista de entrypoints e o conteúdo é criado como estava previamente.
 
@@ -96,6 +102,6 @@ Se você precisa editar o teste para adicionar, remover ou modificar os usuário
 
 Na aba **Test**, você pode consultar, no primeiro passo **Overview**, as informações relacionadas ao teste: descrição, quem o iniciou e data de criação.
 
-Clique em ![](.gitbook/assets/editar_icono.png) para modificar os números de usuário. Também para adicionar novos user ID ou eliminar o já existente. Clique em **Save** para salvar as mudanças.
+Clique em ![](.gitbook/assets/editar\_icono.png) para modificar os números de usuário. Também para adicionar novos user ID ou eliminar o já existente. Clique em **Save** para salvar as mudanças.
 
-![](.gitbook/assets/Change_test_IDs.gif)
+![](.gitbook/assets/Change\_test\_IDs.gif)

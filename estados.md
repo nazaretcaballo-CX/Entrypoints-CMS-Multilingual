@@ -8,7 +8,9 @@
 
 **PUBLISHED**. Etado publicado. O usuário verá o entrypoint sempre que seja configurado para um público que corresponda ao usuário e dentro de uma lista que também esteja publicada.
 
-{% hint style="warning" %} Lembre-se que um entrypoint pode estar em listas diferentes e, para que possa ser visualizado, ele deve ser publicado. Mas o fato de o entrypoint estar no estado **PUBLISHED** não significa que será visualizado. Isso depende do estado da(s) lista(s) que o contém e do público configurado nessas listas. {% endhint %}
+{% hint style="warning" %}
+Lembre-se que um entrypoint pode estar em listas diferentes e, para que possa ser visualizado, ele deve ser publicado. Mas o fato de o entrypoint estar no estado **PUBLISHED** não significa que será visualizado. Isso depende do estado da(s) lista(s) que o contém e do público configurado nessas listas.
+{% endhint %}
 
 **PAUSED**. Estado não publicado. O entrypoint foi publicado em algum momento, mas não é mais publicado, não é visível para nenhum usuário.
 
@@ -18,7 +20,7 @@
 
 Aqui está um breve esquema de como fazer a transição de um estado para outro.
 
-![Cómo transiciona un entrypoint de un estado a otro en función del estado de inicio ](.gitbook/assets/Estados_entrypoint.png)
+![](.gitbook/assets/Estados\_entrypoint.png)
 
 ### Listas
 
@@ -30,9 +32,9 @@ Aqui está um breve esquema de como fazer a transição de um estado para outro.
 
 **TEST**. A lista pode ter um teste em andamento. Este estado é sempre combinado com:
 
-- **PAUSED + TEST**. Neste caso, a lista está em teste e, enquanto o teste estiver em execução, não é visto pelos usuários, apenas por aqueles configurados para o Teste.
-- **PUBLISHED + TEST**. Neste caso, a lista está em teste, mas permanece publicada para o resto dos usuários. Os usuários do teste verão a versão de teste da lista e os demais usuários verão a lista como ela era originalmente, na versão publicada.
+* **PAUSED + TEST**. Neste caso, a lista está em teste e, enquanto o teste estiver em execução, não é visto pelos usuários, apenas por aqueles configurados para o Teste.
+* **PUBLISHED + TEST**. Neste caso, a lista está em teste, mas permanece publicada para o resto dos usuários. Os usuários do teste verão a versão de teste da lista e os demais usuários verão a lista como ela era originalmente, na versão publicada.
 
 Aqui está um breve esquema de como fazer a transição de um estado para outro.
 
-![Cómo transiciona una lista de un estado a otro en función del estado de inicio](.gitbook/assets/Estados_listas.png)
+![](.gitbook/assets/Estados\_listas.png)
