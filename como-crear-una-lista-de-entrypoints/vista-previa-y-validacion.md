@@ -23,4 +23,6 @@ También puedes hacer clic en Save para guardar los cambios y dejar la lista en 
 
 **¿Quieres saber más sobre le proceso de Test?** 👇🏼
 
-[#como-probar-un-contenido-antes-de-publicarlo](../como-hacer-un-test.md#como-probar-un-contenido-antes-de-publicarlo "mention")
+{% content-ref url="../como-hacer-un-test.md" %}
+[como-hacer-un-test.md](../como-hacer-un-test.md)
+{% endcontent-ref %}
