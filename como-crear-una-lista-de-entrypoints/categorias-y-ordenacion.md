@@ -46,7 +46,7 @@ Add the name of the first category in the **New category name** field and click 
 
 The categories will be created as shown below. To order the entry points, simply drag them, one-by-one, in the order you choose, under the corresponding category:
 
-![Categories are painted with a different color and they have a Delete icon ](https://github.com/nazaretcaballo-CX/entrypoints-CMS/blob/ES/en-US/.gitbook/assets/categorias\_orden.gif?raw=true)
+![Categories are painted with a different color and they have a Delete icon ](<../.gitbook/assets/categorias\_orden (1).gif>)
 
 To delete a category, click![](../.gitbook/assets/icono\_borrar.png) in the category name.
 
