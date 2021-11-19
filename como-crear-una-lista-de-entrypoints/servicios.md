@@ -4,9 +4,9 @@ description: Paso 2 de creación de una lista de entry points
 
 # Servicios
 
-En este paso Services haz clic en **Add entrypoint** para añadir, uno a uno, los entrypoints que conforman la lista.
+En este paso Services, haz clic en **Add entrypoint** para añadir, uno a uno, los entrypoints que conforman la lista.
 
-En la modal selecciona el entrypoint que quieras añadir. Puedes buscar directamente en el desplegable o empezar a escribir por su nombre y seleccionarlo:
+Selecciona el entrypoint que quieras añadir. Puedes buscar directamente en el desplegable o empezar a escribir por su nombre y seleccionarlo:
 
 ![](../.gitbook/assets/add\_entrypoint.gif)
 
