@@ -20,7 +20,7 @@ Remember that entry points can be found in different lists, and that to be seen 
 
 Here is a small diagram which depicts how you can transition from one state to another.
 
-![How the test transition from states depending on its initial state](https://github.com/nazaretcaballo-CX/entrypoints-CMS/blob/ES/en-US/.gitbook/assets/Estados\_entrypoint.png?raw=true)
+![How the test transition from states depending on its initial state](.gitbook/assets/Estados\_entrypoint.png)
 
 ### Lists
 
@@ -37,4 +37,4 @@ Here is a small diagram which depicts how you can transition from one state to a
 
 Here is a small diagram showing how you can move from one state to another.
 
-![How the test transition from states depending on its initial state](https://github.com/nazaretcaballo-CX/entrypoints-CMS/blob/ES/en-US/.gitbook/assets/Estados\_listas.png?raw=true)
+![How the test transition from states depending on its initial state](.gitbook/assets/Estados\_listas.png)
