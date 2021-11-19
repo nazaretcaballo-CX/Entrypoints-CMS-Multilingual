@@ -42,8 +42,8 @@ Haz clic en **Create test**.
 1. Asegúrate de tener descargada la versión Enterprise de la app.
 2. Abre la app
 3. Agita el teléfono
-4. Accede a la sección "Autentication"
-5. el número que necesitas es el del campo **User ID**
+4. Accede a la sección "Authentication"
+5. El número que necesitas es el del campo **User ID**
 {% endhint %}
 
 #### Test en un entrypoint
@@ -104,6 +104,6 @@ Si necesitas editar el test para poder añadir, quitar o modificar los usuarios 
 
 En la pestaña **Test** puedes consultar, en el primer paso **Overview**, la información relativa al test: la descripción, quién lo ha iniciado y la fecha de creación.
 
-Haz clic en ![](.gitbook/assets/editar\_icono.png)para modificar los números de usuario. También para añadir user ID nuevos o eliminar lo que ya hay. Haz clic en **Save** para guardar los cambios.
+Haz clic en ![](.gitbook/assets/editar\_icono.png)para modificar los números de usuario. También para añadir user ID nuevos o eliminar los que ya hay. Haz clic en **Save** para guardar los cambios.
 
 ![](.gitbook/assets/Change\_test\_IDs.gif)
