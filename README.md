@@ -1,6 +1,6 @@
 # Entrypoint list CMS
 
-Acesse as listas CMS do menu lateral Entrypoint List
+Acesse as listas CMS do menu lateral Entrypoint List.
 
 ![](.gitbook/assets/entrypoint\_list\_menu\_lateral.png)
 
