@@ -64,13 +64,13 @@ Click **Create test**.
 
 First, you'll know that there is a test ongoing for a list of entry points if you see the **TEST** status tag:
 
-![Detail of a TEST tag in a list of entry points](https://github.com/nazaretcaballo-CX/entrypoints-CMS/blob/ES/en-US/.gitbook/assets/detalle\_test\_tag.png?raw=true)
+![Detail of a TEST tag in a list of entry points](.gitbook/assets/detalle\_test\_tag.png)
 
 To publish the content of a test, access the list of entry points for which that test is running.
 
 When you open the list, the content appears divided into two tabs. This allows you to see, at all times, the content prior to the test and the content of the test itself.
 
-![Detail of the tags for previous content and test](https://github.com/nazaretcaballo-CX/entrypoints-CMS/blob/ES/en-US/.gitbook/assets/detalle\_pestan%CC%83as\_test.png?raw=true)
+![Detail of the tags for previous content and test](.gitbook/assets/detalle\_pestañas\_test.png)
 
 {% hint style="warning" %}
 You can only make changes to the content if you are in the **Test** tab. Use the other tab to see the content prior to the changes that you made for the test.
