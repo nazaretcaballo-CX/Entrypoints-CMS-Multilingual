@@ -64,13 +64,13 @@ Clique em **Create test**.
 
 Para começar, você saberá que uma lista de entrypoints tem um teste em andamento devido à etiqueta de estado **TEST**:
 
-![Detalle de la etiqueta TEST en una lista de entrypoints](.gitbook/assets/detalle\_test\_tag.png)
+![](.gitbook/assets/detalle\_test\_tag.png)
 
 Para publicar o conteúdo de um teste, acesse a lista de entrypoints em que esse teste está sendo realizado.
 
 Uma vez aberta a lista, o conteúdo aparece dividido em duas abas para podar visualizar, a qualquer momento, o conteúdo prévio ao teste e o próprio conteúdo do teste.
 
-![Detalle de las pestañas de contenido previo y de test](.gitbook/assets/detalle\_pestañas\_test.png)
+![](.gitbook/assets/detalle\_pestañas\_test.png)
 
 {% hint style="warning" %}
 Você só pode fazer mudanças no conteúdo se estiver na aba **Test**. Use a outra aba para visualizar o conteúdo antes das mudanças que você fez no teste.
