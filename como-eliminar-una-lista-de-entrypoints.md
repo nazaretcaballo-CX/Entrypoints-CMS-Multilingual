@@ -8,7 +8,7 @@ Para eliminar una lista de entrypoints accede a la pantalla principal y acerca e
 
 ![](.gitbook/assets/Eliminar\_elemento.png)
 
-Haz clic en **Aceptar** para confirmar el borrado del elemento.
+Haz clic en **Accept** para confirmar el borrado del elemento.
 
 ![](.gitbook/assets/Confirmar\_Delete.png)
 
