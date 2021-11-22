@@ -132,14 +132,6 @@ Verá la promo sobre los documentales de la NBA si colocas las URLs así:
 2. `los-amantes-del-deporte`
 {% endhint %}
 
-Tienes una URL configurada para la audiencia `los-amantes-del-deporte`
-
-Tienes otra URL configurada para la audiencia `los-amantes-del-baloncesto`
-
-Alice es una usuaria que adora el deporte y por la configuración de las audiencias esta usuaria está integrada dentro de la audiencia `los-amantes-del-deporte` y también en la audiencia `los-amantes-del-baloncesto.`
-
-Se ha configurado una URL sobre un partido de baloncesto súper importante y otra URL sobre nuevos canales de deporte.
-
 #### Cómo borrar una URL
 
 Haz clic en ![](.gitbook/assets/icono\_borrar.png) para eliminar una URL configurada.
