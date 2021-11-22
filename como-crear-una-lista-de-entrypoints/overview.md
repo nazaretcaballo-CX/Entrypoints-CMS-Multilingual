@@ -43,7 +43,7 @@ You will know this when you [configure the entry points](../como-crear-editar-un
 
 ![](../.gitbook/assets/Visualization\_section.png)
 
-**Restrict the amount of services in summary view**. Check this box to restrict the number of icons displayed in the list.
+**Restrict the amount of services in summary view**. Check this box to restrict the number of entry points displayed in the list.
 
 **Amount of services summary view**. If you have checked the **Restrict the amount of services in summary view** box, it will indicate the maximum number of entry points to be shown.
 
