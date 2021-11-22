@@ -43,7 +43,7 @@ Você saberá isto quando [configurar os entry points](../como-crear-editar-un-e
 
 ![](../.gitbook/assets/Visualization\_section.png)
 
-**Restrict the amount of services in summary view**. Selecione esta verificação para restringir o número de ícones que são exibidos na lista.
+**Restrict the amount of services in summary view**. Selecione esta verificação para restringir o número de entrypoints que são exibidos na lista.
 
 **Amount of services summary view**. Se você selecionou a verificação **Restrict the amount of services in summary view** então indique o número máximo de entry points que serão exibidos.
 

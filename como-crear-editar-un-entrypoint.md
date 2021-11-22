@@ -132,14 +132,6 @@ Ela verá a promoção sobre os documentários da NBA se você colocar as URLs d
 2. `os-fãs-do-esporte`
 {% endhint %}
 
-Você tem uma URL configurada para o público `os-fãs-do-esporte`
-
-Você tem outra URL configurada para o público `os-fãs-do-basquete`
-
-Alice é uma usuária que adora esportes e, pela configuração dos públicos, esta usuária está integrada dentro do público `os-fãs-do-esporte` e também no público `os-fãs-do-basquete.`
-
-Uma URL foi configurada sobre uma jogo de basquete muito importante e outra URL sobre novos canais de esporte.
-
 #### Como apagar uma URL
 
 Clique em ![](.gitbook/assets/icono\_borrar.png) para eliminar uma URL configurada.
