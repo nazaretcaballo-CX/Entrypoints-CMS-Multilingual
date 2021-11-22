@@ -132,14 +132,6 @@ She will see the promo about the NBA documentaries if you put the URLs in this o
 2. `sport-lovers`
 {% endhint %}
 
-You have a URL configured for the `sport-lovers` audience
-
-You have another URL configured for the `basketball-lovers` audience
-
-Alice is a user who loves sports. By the configuration of the audiences, this user is integrated into the `sport-lovers` audience and also in the `basketball-lovers` audience.
-
-A URL about a super important basketball game has been configured. Another about new sports channels has also been configured.
-
 #### How to delete a URL
 
 Click ![](.gitbook/assets/icono\_borrar.png) to delete a configured URL.
