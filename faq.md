@@ -4,7 +4,7 @@ description: Las dudas más frecuentes resueltas de manera sencilla
 
 # FAQ
 
-### Quiero modificar un copy de un entry point, ¿cómo lo hago?
+### Quiero modificar un texto de un entry point, ¿cómo lo hago?
 
 Solo tienes que editarlo y guardar los cambios.
 
